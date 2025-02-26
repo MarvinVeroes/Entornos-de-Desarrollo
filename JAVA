@@ -1,1 +1,26 @@
 ENNTORNO DE DESARROLLO JAVA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMPRESA O INSTITUCION DETRAS DE JAVA
+
+Java nació en junio de 1991 como un proyecto llamado "Oak" bajo el desarrollo de un pequeño equipo de ingenieros que trabajaban para Sun Microsystems.
+Se hacían llamar el Equipo Verde: James Gosling, Mike Sheridan y Patrick Naughton. Y se eligió la palabra "roble" para nombrar la nueva tecnología porque 
+el roble es un símbolo de fuerza y ​​durabilidad. El tiempo ha demostrado que este nombre terminó siendo muy apropiado e incluso profético a pesar de que se 
+cambió a Java en 1995 debido a que Oak ya estaba registrado como parte de otra marca. 
+En abril de 2009, Oracle Corporation completó la adquisiciónde Sun Microsystems y con ella adquirió todos los derechos sobre las tecnologías Java desarrolladas
+por los desarrolladores de Sun dentro del Green Team. James Gosling renunció a Oracle un año después, en abril de 2020. 
+Oracle Corporation es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede central en la localidad de Austin, capital 
+del estado de Texas.Según la clasificación correspondiente al año 2006, ocupa el primer lugar en la categoría de las bases de datos y el séptimo lugar a nivel mundial 
+de las compañías de tecnologías de la información
