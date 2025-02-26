@@ -24,3 +24,26 @@ por los desarrolladores de Sun dentro del Green Team. James Gosling renunció a 
 Oracle Corporation es una compañía especializada en el desarrollo de soluciones de nube y locales. Oracle tiene su sede central en la localidad de Austin, capital 
 del estado de Texas.Según la clasificación correspondiente al año 2006, ocupa el primer lugar en la categoría de las bases de datos y el séptimo lugar a nivel mundial 
 de las compañías de tecnologías de la información
+
+LICENCIAS DE USO
+
+El modelo de licencias de Java de Oracle ha experimentado múltiples transformaciones, en particular en 2019, 2021, 2023 y 2024. Cada uno de estos años trajo consigo 
+modificaciones sustanciales que afectaron los requisitos de costo, uso y cumplimiento para las organizaciones que utilizan Java.
+
+Cambios en la licencia de Java en 2019
+En 2019 , Oracle realizó cambios fundamentales en el modelo de licencias para Oracle Java JDK 8 :
+
+Requisito de suscripción para actualizaciones : Oracle anunció que todas las actualizaciones de Java JDK 8 a partir del parche 211 requerirían una suscripción. 
+Esto significaba que las empresas que desearan recibir actualizaciones o parches de seguridad para JDK 8 ahora debían comprar una suscripción a Java SE.
+
+Introducción de la licencia de Java OTN SE : Oracle presentó un nuevo acuerdo de licencia denominado Java OTN SE (Acuerdo de licencia de software de Oracle Technology Network para Java SE) .
+Este acuerdo prohibía explícitamente todo uso comercial de Oracle Java, lo que lo hacía más restrictivo para los usuarios comerciales.
+
+Impacto en el acuerdo BCLA : el modelo de licencia anterior, llamado BCLA (Binary Code License Agreement) , ya había dificultado que muchas organizaciones mantuvieran el cumplimiento. 
+El cambio al modelo OTN SE en 2019 aumentó aún más los riesgos de cumplimiento para las empresas que dependían de Oracle Java para fines comerciales.
+
+Cronograma de vigencia : aunque los cambios se anunciaron en 2019, entraron en vigencia en abril de 2020 , lo que significa que las organizaciones tuvieron que actuar rápidamente para evaluar 
+su cumplimiento y ajustar su uso de Java en consecuencia.
+
+Cambios en la licencia de Java 2021
+En 2021, Oracle introdujo otro modelo de licencias que buscaba simplificar las cosas para algunos usuarios y al mismo tiempo hacer que ciertos aspectos fueran más restrictivos:
