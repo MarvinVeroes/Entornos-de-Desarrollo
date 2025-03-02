@@ -27,10 +27,34 @@ de las compañías de tecnologías de la información
 
 LICENCIAS DE USO
 
+A pesar de que tradicionalmente haya existido la percepción de que la licencia Java para empresas podía utilizarse de manera gratuita sin restricciones, siempre ha sido 
+necesario considerar diversas circunstancias en torno al desarrollo y el uso de código Java. Se trata de un punto a tener muy en cuenta dentro del software empresarial.
+En este ámbito, resulta cada vez más frecuente que las empresas se preocupen por el licenciamiento de esta tecnología. A este hecho contribuyen las nuevas condiciones 
+impuestas por Oracle y las auditorías que este fabricante lleva a cabo.
+
+De hecho, fijándonos en los antecedentes más cercanos, desde enero de 2010, la descarga Java estaba disponible bajo la licencia Oracle Binary Code License (OBCL).
+Posteriormente, en mayo de 2011, Oracle introdujo dos licencias comerciales nuevas para descargar Java (Java SE Advanced y Java SE Suite) y en febrero de 2014 una tercera
+(Java SE Advanced Desktop). Tal y como sucede con otras licencias de Oracle, cada una de estas licencias representa un conjunto de productos, componentes o funcionalidades 
+que pueden ser utilizados como parte de su adquisición.
+
+Analizando las condiciones de la licencia Java anteriores a Java SE 11 y fijándonos en primer lugar en los componentes comerciales, ha de destacarse que según los términos de 
+la licencia Oracle Binary Code License Agreement, no podían utilizarse todas las funcionalidades en Java sin coste. De hecho, en este acuerdo de licencia se establece explícitamente que 
+hay determinados componentes comerciales que están sujetos a restricciones.
+
+De este modo, si se desea utilizar los siguientes componentes: Java Flight Recorder, Java Mission Control, Java Advanced Management Console, MSI Enterprise JRE Installer, JRockit 
+Flight Recorder, JRockit Mission Control Console observability, JRockit Mission Control Memory Leak Detector observability, JRE Usage Tracking y JRockit Real Time con Deterministic GC, 
+ya sea para operaciones internas de negocio o con propósito comercial, ha de contratarse una licencia específica de Oracle. No obstante, si se hace uso de los mismos en un entorno de desarrollo, 
+así como para pruebas o formación, no es necesario adquirir una licencia Java para satisfacer las condiciones de licenciamiento.
+
+Por otra parte, la necesidad de asumir un coste por utilizar aplicaciones Java ha dependido también de la infraestructura empleada, siendo gratuito en el caso de computación de propósito general 
+(General Purpose Computing) o suponiendo un gasto en caso contrario.
+
+
+
 El modelo de licencias de Java de Oracle ha experimentado múltiples transformaciones, en particular en 2019, 2021, 2023 y 2024. Cada uno de estos años trajo consigo 
 modificaciones sustanciales que afectaron los requisitos de costo, uso y cumplimiento para las organizaciones que utilizan Java.
 
-Cambios en la licencia de Java en 2019
+Cambios en la licencia de Java en 2019-->
 En 2019 , Oracle realizó cambios fundamentales en el modelo de licencias para Oracle Java JDK 8 :
 
 Requisito de suscripción para actualizaciones : Oracle anunció que todas las actualizaciones de Java JDK 8 a partir del parche 211 requerirían una suscripción. 
@@ -45,6 +69,95 @@ El cambio al modelo OTN SE en 2019 aumentó aún más los riesgos de cumplimient
 Cronograma de vigencia : aunque los cambios se anunciaron en 2019, entraron en vigencia en abril de 2020 , lo que significa que las organizaciones tuvieron que actuar rápidamente para evaluar 
 su cumplimiento y ajustar su uso de Java en consecuencia.
 
-Cambios en la licencia de Java 2021
+Cambios en la licencia de Java 2021-->
 En 2021, Oracle introdujo otro modelo de licencias que buscaba simplificar las cosas para algunos usuarios y al mismo tiempo hacer que ciertos aspectos fueran más restrictivos:
+
+Introducción de la licencia NFTC : Oracle introdujo el acuerdo NFTC (No-Fee Terms and Conditions) , que establece que  Java es gratuito para uso comercial , a partir de Oracle JDK 17. Este fue 
+un cambio significativo que tenía como objetivo brindar más libertad a las empresas que querían utilizar las últimas versiones de Java.
+Condiciones para versiones anteriores de Java : Oracle aclaró que las empresas que utilizan versiones de Java 1 a 16  no se verán afectadas por la nueva licencia NFTC. Por lo tanto, podrían seguir 
+utilizando versiones anteriores de Java sin necesidad de aplicar los términos actualizados. Sin embargo, estas versiones no recibirían actualizaciones gratuitas, lo que podría generar riesgos de seguridad.
+
+Requisitos de parches de seguridad : según el acuerdo NFTC, una organización debe obtener una nueva licencia para actualizar a  Java 17  o aplicar parches de seguridad a esa versión. Sin embargo, si decide 
+no actualizar a Java 17, no necesitará una licencia hasta octubre de 2024. Después de esta fecha, la aplicación de un parche de seguridad para versiones anteriores a la 17 requeriría una licencia para el JDK 
+más reciente.
+
+Cambios en la licencia de Java 2023-->
+El conjunto de cambios más reciente se produjo en enero de 2023 y se centró principalmente en el modelo de precios de las suscripciones de Java:
+
+Se introdujo un nuevo modelo de suscripción : Oracle reemplazó las licencias anteriores basadas en procesador y de usuario nombrado Plus por un nuevo modelo de precios llamado Suscripción universal para empleados
+de Java SE .
+
+Precios basados ​​en la cantidad de empleados : el nuevo sistema de precios se determina según la cantidad de empleados dentro de una organización, independientemente de su interacción real con Java. Los niveles de precios 
+varían según la cantidad de empleados, lo que hace que sea fundamental para las empresas contar con precisión su fuerza laboral y ajustar su presupuesto.
+
+Impacto en las métricas de licencias : si bien las métricas de licencias cambiaron significativamente, los términos de uso se mantuvieron prácticamente iguales. Los acuerdos existentes, como BCL 
+(licencia de código binario) , OTN SE y NFTC , seguían siendo válidos bajo el nuevo modelo de precios.
+
+Cambios en la licencia de Java 2024-->
+
+En 2024 , Oracle introdujo otro cambio de licencia significativo que afectó el uso de Java 17 :
+
+Licencia de parches de seguridad de Java 17 : Oracle anunció que Java 17 ya no es gratuito si se aplica un parche de seguridad publicado después de septiembre de 2024. Las organizaciones que implementen estos 
+parches deben adquirir una suscripción para obtener la licencia de Java 17 .
+
+Condiciones para el uso gratuito : si las empresas no aplican parches de seguridad a Java 17, pueden seguir usándolo sin cargo . Esto genera un punto de decisión crítico para las organizaciones: priorizar la seguridad 
+con costos constantes o mantener el uso gratuito sin actualizaciones de seguridad.
+
+Resumen : Los cambios de 2024 requieren una licencia para Java 17 si se aplican parches de seguridad después de septiembre de 2024. Por lo tanto, las empresas deben sopesar la importancia de la seguridad frente al ahorro 
+de costos.
+
+CAEACTERISTICAS DESTACABLES DE JAVA
+
+Java es un lenguaje de programación de propósito general orientado a objetos desarrollado por Sun Microsystems. También se puede decir que Java es una tecnología que no sólo se reduce al lenguaje sino que además provee
+de una máquina virtual Java que permite ejecutar código compilado Java, sea cual sea la plataforma que exista por debajo; plataforma tanto hardware, como software (el sistema operativo que soporte ese hardware). 
+El apoyo a esta tecnología viene dado por la gran cantidad de fabricantes que apoyan esta especificación de máquina virtual.
+
+Aprender el lenguaje de programación Java requiere tiempo y esfuerzo, pero en este curso trataremos de sentar las bases para el conocimiento general del lenguaje. El lenguaje se inspira en otros lenguajes:
+
+sentencias comunes de C y C++ (sintaxis parecida a dichos lenguajes)
+concurrencia parecida a la de Mesa (un lenguaje de investigación de Xerox)
+interrupciones parecidas a las de Modula-3
+tratamiento de enlace dinámico de código nuevo parecido al de Lisp
+definiciones de interfaces parecidas a las de Objective C
+gestión de almacenamiento automático parecida a la de Lisp
+
+Características:
+Sun describe al lenguaje Java de la siguiente manera:
+Simple
+Orientado a Objetos
+Tipado estáticamente
+Distribuido
+Interpretado
+Robusto
+Seguro
+de Arquitectura Neutral
+Multihilo
+con Recolector de basura (Garbage Collector)
+Portable
+de Alto Rendimiento: sobre todo con la aparición de hardware especializado y mejor software
+Dinámico
+
+Estrictamente hablando, Java es interpretado, aunque en realidad Java es tanto interpretado como compilado. De hecho, sólo cerca del 20% del código Java es interpretado por la JVM (Java Virtual Machine), 
+pero es un 20% muy importante. Tanto la seguridad de Java como su habilidad para ser ejecutado en múltiples plataformas se deben a que los pasos finales de la compilación se manejan localmente.Existen 
+ciertos entornos que para mejorar el rendimiento usan un pequeño compilador para la última fase de compilación, de forma que una vez que se tenga el bytecode, en vez de interpretarlo se compila generando 
+código nativo para esa plataforma y se ejecuta, pero esta compilación se realiza cada vez que se quiera ejecutar el programa. El único código realmente independiente es el bytecode. Este tipo de compiladores se 
+conocen como 'Just In Time' o JIT. Sin embargo, el bytecode no se completa hasta que se junta con un entorno de ejecución, que en este caso será la máquina virtual Java de la plataforma en la que estemos. 
+Un browser puede proveer dicha plataforma desde el punto de vista del sistema operativo.
+
+
+La máquina virtual Java.
+Para establecer Java como parte integral de la red, el compilador Java compila su código a un fichero objeto de formato independiente de la arquitectura de la máquina en que se ejecutará. Cualquier máquina que 
+tenga el sistema de ejecución (runtime) puede ejecutar ese código objeto, sin importar en modo alguno la máquina en que ha sido generado.
+El código fuente Java se "compila" a un código de bytes de alto nivel independiente de la máquina. Este código (bytecode) está diseñado para ejecutarse en una máquina hipotética que es implementada por un 
+sistema runtime, que sí es dependiente de la máquina. Por lo tanto, lo que verdaderamente es dependiente del sistema es la Máquina Virtual Java (JVM) y las librerías fundamentales, que también nos permitirían 
+acceder directamente al hardware de la máquina. El compilador Java genera bytecode que serán ejecutables dondequiera que exista una JVM.
+
+Orientación a objetos.
+Java implementa la tecnología básica de C++ con algunas mejoras y elimina algunas cosas para mantener el objetivo de la simplicidad del lenguaje. Java trabaja con sus datos como objetos y con interfaces a esos objetos. 
+Soporta las tres características propias del paradigma de la orientación a objetos: encapsulación, enlace dinámico y polimorfismo. Los modelos de objetos son llamados, como en C++, clases y sus copias, instancias. 
+Estas instancias, como en C++, necesitan ser construidas y destruidas en espacios de memoria.
+Java incorpora funcionalidades inexistentes en C++ como por ejemplo, la resolución dinámica de métodos. Esta característica deriva del lenguaje ObjectiveC. En C++ se suele trabajar con librerías dinámicas (DLLs) 
+que obligan a recompilar la aplicación cuando se retocan las funciones que se encuentran en su interior. Java resuelve este inconveniente mediante una interfaz específica llamada RTTI (Run Time Type Identification) 
+que define la interacción entre objetos excluyendo variables de instancias o implementación de métodos. Las clases en Java tienen una representación en el runtime que permite a los programadores interrogar por el tipo 
+de clase y enlazar dinámicamente la clase con el resultado de la búsqueda.
 
