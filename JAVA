@@ -1,4 +1,4 @@
-ENNTORNO DE DESARROLLO JAVA
+# ENTORNO DE DESARROLLO JAVA
 
 
 
@@ -12,8 +12,9 @@ ENNTORNO DE DESARROLLO JAVA
 
 
 
+---
 
-EMPRESA O INSTITUCION DETRAS DE JAVA
+## EMPRESA O INSTITUCION DETRAS DE JAVA
 
 Java nació en junio de 1991 como un proyecto llamado "Oak" bajo el desarrollo de un pequeño equipo de ingenieros que trabajaban para Sun Microsystems.
 Se hacían llamar el Equipo Verde: James Gosling, Mike Sheridan y Patrick Naughton. Y se eligió la palabra "roble" para nombrar la nueva tecnología porque 
@@ -25,7 +26,9 @@ Oracle Corporation es una compañía especializada en el desarrollo de solucione
 del estado de Texas.Según la clasificación correspondiente al año 2006, ocupa el primer lugar en la categoría de las bases de datos y el séptimo lugar a nivel mundial 
 de las compañías de tecnologías de la información
 
-LICENCIAS DE USO
+---
+
+## LICENCIAS DE USO
 
 A pesar de que tradicionalmente haya existido la percepción de que la licencia Java para empresas podía utilizarse de manera gratuita sin restricciones, siempre ha sido 
 necesario considerar diversas circunstancias en torno al desarrollo y el uso de código Java. Se trata de un punto a tener muy en cuenta dentro del software empresarial.
@@ -48,8 +51,6 @@ así como para pruebas o formación, no es necesario adquirir una licencia Java 
 
 Por otra parte, la necesidad de asumir un coste por utilizar aplicaciones Java ha dependido también de la infraestructura empleada, siendo gratuito en el caso de computación de propósito general 
 (General Purpose Computing) o suponiendo un gasto en caso contrario.
-
-
 
 El modelo de licencias de Java de Oracle ha experimentado múltiples transformaciones, en particular en 2019, 2021, 2023 y 2024. Cada uno de estos años trajo consigo 
 modificaciones sustanciales que afectaron los requisitos de costo, uso y cumplimiento para las organizaciones que utilizan Java.
@@ -106,7 +107,11 @@ con costos constantes o mantener el uso gratuito sin actualizaciones de segurida
 Resumen : Los cambios de 2024 requieren una licencia para Java 17 si se aplican parches de seguridad después de septiembre de 2024. Por lo tanto, las empresas deben sopesar la importancia de la seguridad frente al ahorro 
 de costos.
 
-CAEACTERISTICAS DESTACABLES DE JAVA
+---
+
+## CARACTERISTICAS DESTACABLES DE JAVA
+
+---
 
 Java es un lenguaje de programación de propósito general orientado a objetos desarrollado por Sun Microsystems. También se puede decir que Java es una tecnología que no sólo se reduce al lenguaje sino que además provee
 de una máquina virtual Java que permite ejecutar código compilado Java, sea cual sea la plataforma que exista por debajo; plataforma tanto hardware, como software (el sistema operativo que soporte ese hardware). 
@@ -161,3 +166,4 @@ que obligan a recompilar la aplicación cuando se retocan las funciones que se e
 que define la interacción entre objetos excluyendo variables de instancias o implementación de métodos. Las clases en Java tienen una representación en el runtime que permite a los programadores interrogar por el tipo 
 de clase y enlazar dinámicamente la clase con el resultado de la búsqueda.
 
+---
