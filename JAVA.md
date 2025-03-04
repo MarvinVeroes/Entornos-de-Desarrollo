@@ -1,8 +1,23 @@
 # ENTORNO DE DESARROLLO JAVA
 
+---
 
+## HISTORIA DE JAVA
 
+  Java originalmente se creo como una herramienta de programacion para ser usada en un proyecto de set-top-box, en una pequeña operacion denominada <ins>The Green Project</ins> en Sun Microsystems en 1991.
+Lo que hoy conocemos como Java, no nacio originalmente con este nombre, el nombre que se le habia dado era "OAK" <ins>(Por un roble que habia fuera de la oficina de James Gosling, el director del proyecto</ins>. El objetivo de este proyecto se centraba principalmente en crear un lenguaje de programacion parecido a **C++** en estructura y sintaxis, fuertemente orientado a objetos, pero con una máquina virtual propia. La idea estaba orientada a poder ser ejecutada bajo cualquier arquitectura _"Write Once, Run Anywhere" (Escribelo una vez, ejecutalo en cualquier sitio)"._
 
+  En los años 1993 y 1994 se trabajo para poder presentar un prototipo funcional _(hotJava)_. Sin embargo, no fue hasta 1995 que finalizo su desarrollo, y a principios de 1996 cuando _Sun Microsystems_ lanzo la primera implementacion publica de Java 1.0. Es importante recalcar que, antes del lanzamiento, en 1995, el proyecto pasó a llamarse <ins>Java</ins>. Durante la historia de Java han habido varias hipotesis del significado de el nombre, uno de los mas famosos y mas acogidos por la comunidad es la de que Java debe su nombre a un tipo de café disponible en la cafeteria cercada; de ahi que el icono de Java sea una taza de café caliente. Sin embargo, a pesar de todas estas teorias que remontan a los inicios del lenguaje, al parecer el nombre fue sacado de una lista aleatoria de palabras.
+
+  Desde el lanzamiento de Java, Sun Microsystems lanzo varias versiones, agregando multiples configuraciones creadas para diferentes tipos de plataformas. En noviembre de 2006, se lanzo gran parte de su maquina virtual Java (JVM) bajo la Licencia Pública General GNU, como sofware gratuito y de código abierto. Fue en mayo de 2007 cuando completaron el proceso de convertir Java en fuente abierta accediendo completamente al código central de JVM. En abril de 2009, **Oracle Corporation** completó la adquisición de Sun Microsystems y con ella adquirió todos los derechos sobre las tecnologiaas Java desarrolladas por los desarrolladores de Sun dentro del _Green Team_(Equipo de desarrollo). James, el director del proyecto originalmente, renunció a Oracle un año despues.
+
+  El mayor cambio en el desarrollo de tecnologias Java bajo Oracle se produjo en 2017, cuando anunciaron que Java se moverá a un nuevo ciclo de lanzamiento, con una nueva versión lanzada cada seis meses, como forma de garantizar que las tecnologias relacionadas con Java se actualicen oportunamente en de acuerdo con las necesidades y requerimientos del mercado actual.
+
+  A dia de hoy, podemos decir, que Java es uno de los lenguajes más importantes del mundo. Con una comunidad extendida en todos los componentes y más de 4 millones de desarrolladores, con millones de dispositivos que lo usan. Cabe recalcar que desde el surgimiento de _android_, Java se a establecido como el lenguaje de programación para móviles más extendido del planeta. La necesidad de desarrolladores de Java calificados y experimentados en todo el mundo sigue aumentando. Se espera que Java mantenga su importancia en el ambito de desarrollo como lenguaje de programacion a futuro, debido a los nuevos nichos de tendencia como AI, Big Data, IoT, Blockchain y otros, que dependen mucho de Java.
+
+---
+
+## CAMPO DE APLICACION PRINCIPAL
 
 
 
