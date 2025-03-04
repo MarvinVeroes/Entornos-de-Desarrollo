@@ -19,13 +19,17 @@ Lo que hoy conocemos como Java, no nacio originalmente con este nombre, el nombr
 
 ## CAMPO DE APLICACION PRINCIPAL
 
+  Java es un lenguaje de programación que sse usa en plataformas y distintos tipos de dispositivos, desde smartphones hasta televisores inteligentes. Su utilizacion principal se basa en la creacion de aplicaciones móviles y web, software empresarial, dispositivos de Internet de las cosas (IoT), juegos, macrodatos, aplicaciones distribuidas y basadas en la nuqbbe, entre otros. A continuacion se citan algunos ejemplos conocidos de aplicaciones y software en los que se utiliza Java.
 
+  **- Aplicaciones moviles:** Java es uno de los lenguajes preferidos de los desarrolladores de aplicaciones móviles debido a su plataforma estable y versatilidad. Entre las aplicaciones móviles populares codificadas en Java se incluyen Spotify, Signal y Cash App entre otras.
 
+  **- Aplicaciones web:** Una amplia variedad de aplicaciones web se desarrollan con Java. Twitter y Linkedln se encuentran entre ellas.
 
+  **-Sofware empresarial:** El software empresarial está pensado para servir a un grupo o una organización de gran tamaño. Software como sistemas de facturación y programas de administración de cadenas de suministros, convierte a Java en un lenguaje atractivo para los desarrolladores debido a su alta escalabilidad.
 
+  **-Juegos:** Entre los juegos populares en el lenguaje de programación Java cabe destacar los originales Minecraft y RuneScape entre otros.
 
-
-
+  **-Aplicaciones de IoT:** Estas aplicaciones se encuentra en un sinfin de dispositivos, desde televisores inteligentes y coches hasta maquinaria pesada e instalaciones de trabajo. Java se usa para programar muchas de estas debido a la facilidad con la que puede transferirse su código entre plataformas.
 
 ---
 
