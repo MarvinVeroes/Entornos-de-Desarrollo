@@ -1,7 +1,5 @@
 # Entorno de desarrollo Python
 
----
-
 ## Historia de Python
 
   Python fue creado a finales de los años 80 por Guido van Rossum en el Centro de Investigación para Matemáticas y Computación (CWI) en los Países Bajos. 
@@ -41,9 +39,29 @@
 
 ## Tipo de ejecución
 
+  - Tipado: Python utiliza tipado **dinámico y fuerte**, esto significa que las variables no requieren una delaración de tipo explícita en el momento de su creación y el tipo se verifica en tiempo de ejecución.
+    
+  - Paradigmas: Python es un lenguaje multiparadigma, es decir, soporta varios enfoques de programación según las necesidades del proyecto. Los paradigmas más destacados en Python son: **Programación Orientada a Objetos (POO), Programación Funcional, Programación Imperativa y Programación Asíncrona**
+
+  - Ejecución: Python es un lenguaje **interpretado**, lo que quiere decir que el código fuente se traduce a bytecode y se ejecuta mediante la **Máquina Virtual de Python (PVM)**.
+
 ---
 
 ## Curiosidades sobre Python
+
+  Para poder conocerlo mejor, es preciso que conozcas algunas de sus curiosidades principales. Por ejemplo:
+
+  -  El origen de su nombre: Cierto es que muchos piensan que el nombre tiene relación con la serpiente pitón, pero Guido van Rossum, creador del lenguaje, confesó que eligió el nombre como homenaje a su grupo de comedia favorito: **"Monthy Python's Flying Circus"**, programa británico conocido por su humor absurdo.
+
+  -  Usado como lenguaje oficial de Google: Python es uno de los lenguajes que utiliza Google de manera oficial, debido a que dispone de gran portabilidad y mucha eficiencia. Se trata de un lenguaje de programación sencillo de utilizar a pesar de que se use en proyectos complejos o de grandes dimensiones. Google utiliza este lenguaje en Youtube, en sus búsquedas y en varias aplicaciones y bibliotecas.
+
+  -  El Zen de Python, filosofía del lenguaje: Python consta de una filosofía propia conocida como el **"Zen de Python"**, escrita por Tim Peters. Puede visualizarse escribiendo **"import this"** en el intérprete de Python. Esta es una colección de 19 principios que capturan la esencia de la simplicidad y la legibilidad en Python. Algunos de los mas conocidos son:
+
+      . _"Lo explícito es mejor que lo implícito."_
+      . _"La simplicidad es mejor que la complejidad."_
+      . _"La legibilidad cuenta"_
+
+  Estas son algunas de las curiosidades sobre Python, muchas van más allá de su sintaxis clara y su funcionalidad. Desde homenajes a Monty Python, hasta grandes proyectos reconocidos. Estas curiosidades no solo hacen a Python más atractivo para los desarrolladores, sino que también muestran cómo la cultura y el humor pueden influir en la tecnología.
 
 ---
 
