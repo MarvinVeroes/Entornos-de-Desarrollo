@@ -67,17 +67,41 @@
 
 # IDEs
 
+  Python cuenta con una gran variedad de **Entornos de desarrollo integrado**, facilitando la escritura, depuración y gestion del proyecto. Elegir el IDE adecuado depende de el tipo de proyecto y del desarrollador. A continuacion citaremos algunos entornos de desarrollo integrado.
+
+  - PyCharm. una IDE profesional ampliamente utilizado para el desarrollo en Python, conocido por su entorno completo y avanzado.
+
+  - Visual Studio Code (VS Code), es un editor de código ligero y altamente extensible que se ha convertido en uno de los favoritos de la comunidad Python. Aunque técnicamente es un editor, sus numerosas extensiones, como la de Python oficial, le dan las capacidades de un IDE completo.
+
+  - Jupyter Notebook, un entorno de desarrollo interactivo enfocado en la ciencia de datos y el aprendizaje automático.
+
 ---
 
 ## Empresa o institución
+
+  - Empresa detras de PyCharm: JetBrains.
+
+  - Empresa detras de Visual Studio Code: Microsoft.
+
+  - Institución detras de Jupyter Notebook: Proyecto abierto y gestionado por Project Jupyter.
 
 ---
 
 ## Licencias de uso
 
+  - En **PyCharm** contamos con una versión gratuita, **Community Edition**, ideal para proyectos pequeños y educativos, por otro lado existe la version de pago, **Professional Edition**, incluyendo características adicionales para desarollo web y ciencia de datos.
+
+  - En **Visual Studio Code** contamos con un uso gratuito y de código abierto bajo la licencia MIT (Massachusetts Institute of Technology License).
+
+  - En Jupyter Notebook contamos con la licencia BSD (Berkeley Sofware Distribution), gratuita y de código abierto.
+
 ---
 
 ## Características destacables
+
+  - PyCharm cuenta con ciertas características importantes de destacar, como el **autocompletado inteligente**, cuenta con una facil **integración con Docker y Git** y un **depurador gráfico avanzado y pruebas integradas con pytest**.
+
+  - 
 
 ---
 
