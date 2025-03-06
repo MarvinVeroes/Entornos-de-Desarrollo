@@ -93,7 +93,7 @@
 
   - En **Visual Studio Code** contamos con un uso gratuito y de código abierto bajo la licencia MIT (Massachusetts Institute of Technology License).
 
-  - En Jupyter Notebook contamos con la licencia BSD (Berkeley Sofware Distribution), gratuita y de código abierto.
+  - En **Jupyter Notebook** contamos con la licencia BSD (Berkeley Sofware Distribution), gratuita y de código abierto.
 
 ---
 
@@ -101,22 +101,44 @@
 
   - PyCharm cuenta con ciertas características importantes de destacar, como el **autocompletado inteligente**, cuenta con una facil **integración con Docker y Git** y un **depurador gráfico avanzado y pruebas integradas con pytest**.
 
-  - 
+  - Visual Studio Code dispone de ciertas caracteristicas que lo hacen atractivo para diferentes desarrolladores, cuenta con **extensión oficial de Python**, incluyendo linting _(proceso de analizar el código fuente para identificar errores potenciales, malas prácticas, inconsistencias en el estilo y otros problemas que podrían afectar su calidad y mantenibilidad)_, depuración avanzada y autocompletado con Pylance, además permite la colaboración en tiempo real mediante **Live Share**
+
+  - Jupyter Notebook esta equipado con varias características que convierten este IDE en una opcion a tener en cuenta por programadores, permiten la **exportación a múltiples formatos**, HTML, PDF... entre otros. Además cuenta con **soporte para Markdown**, que permite una documentación directa junto al codigo y cuenta con **visualizaciónes integradas**, esto es, facílita graficos con Matplotlib y Seaborn.
 
 ---
 
 # Frameworks
 
+  Python cuenta con una amplia gama de frameworks que facilitan el desarrollo de aplicaciones web, APIs, ciencia de datos, automatización y más. Estos frameworks permiten a los desarrolladores enfocarse en la lógica de sus aplicaciones sin tener que preocuparse por tareas repetitivas como la gestión de rutas, bases de datos y autenticación. Como ejemplo podemos presentar **Django**, **Flask** y **Tornado**
+
 ---
 
 ## Empresa o institución
+
+  - Detras de Django: Es mantenido por **Django Software Foundation (DSF)**, organización sin animo de lucro.
+
+  - Detras de Flask: Fue desarrollado independientemente por **Armin Ronacher** y actualemente es mantenido por **Pallets Project**.
+
+  - Detras de Tornado: Fue originalmente desarrollado por FriendFeed, actualmente adquirido por Facebook.
 
 ---
 
 ## Licencias de uso
 
+  - Django cuenta con la licencia **BSD (Berkeley Software Distribution)**, gratuita y de código abierto.
+
+  - Flask cuneta con la licencia **BSD (Berkeley Software Distribution)**, gratuita y de código abierto.
+
+  - Tornado cuenta con la licencia **Apache 2.0**, gratuita y de código abierto.
+
 ---
 
 ## Caraterísticas destacables
+
+  - Django cuenta con ciertas caracteristicas a destacar como por ejemplo su **arquitectura MVC (Model-View-Controller), que organiza el codigo de una forma clara y modular, además cuenta con **seguridad integrada** contra XSS, CSRF y otros ataques comunes.
+
+  - Flask, como características cuenta con que es un **Microframework** (técnica que permite a los desarrolladores interactuar con bases de datos relacionales utilizando el paradigma de programación orientada a objetos), esto es, no incluye ORM ni autenticación por defecto, permitiendo agregar solo los componentes necesarios.
+
+  - Tornado dispone de ciertas caracteristicas destacables como su **arquitectura asincrona**, que permite el manejar miles de conexiones concurrentes eficientemente, o su **soporte para WebSockets** (protocolo de comunicación que permite establecer una conexión persistente y bidireccional entre un cliente (generalmente un navegador web) y un servidor), ideal para aplicaciónes en tiempo real.
 
 ---
