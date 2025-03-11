@@ -1,8 +1,8 @@
-#Explicad brevemente la historia del lenguaje (orígenes, versiones, visión de futuro). 
+# Explicad brevemente la historia del lenguaje (orígenes, versiones, visión de futuro). 
 
 C# es un lenguaje de programación desarrollado por Microsoft en el año 2000 bajo la dirección de Anders Hejlsberg. Su objetivo era crear un lenguaje moderno, versátil y fácil de usar, combinando C++, java y otros lenguajes. 
 
-##Versiones y evolucion:
+Versiones y evolucion:
 
 	-C# 1.0(2002): Primera versión con enfoque en programación orientada a objetos.
 	-C# 2.0(2005): Introducción de genéricos y tipos parciales.
@@ -13,10 +13,10 @@ C# es un lenguaje de programación desarrollado por Microsoft en el año 2000 ba
 	-C# 9.0-12.0(2020-2024): Mas funciones, record types y mejoras de rendimiento.
 
 
-##Futuro:
+Futuro:
 Microsoft sigue evolucionando C# para hacerlo mas seguro, eficiente y compatible con IA, cloud computing y desarrollo multiplataforma.
 
-#Explicad brevemente cuál es el campo de aplicación principal del lenguaje escogido, poniendo ejemplos reales (aplicaciones que se encuentran en el mercado, proyectos cancelados, estudios ...).
+Explicad brevemente cuál es el campo de aplicación principal del lenguaje escogido, poniendo ejemplos reales (aplicaciones que se encuentran en el mercado, proyectos cancelados, estudios ...).
 
 Es un lenguaje versátil que se usa en diferentes ambitos:
 	-Desarrollo Web: ASP.NET se usa en sitios como Stack Overflow y Microsoft 			Teams.
@@ -32,7 +32,7 @@ Es un lenguaje versátil que se usa en diferentes ambitos:
 Proyectos cancelados como Windows Phone dependían de C#, pero Microsoft redirigió el lenguaje a otros campos mas rentables.
 
 
-#Tipado de las variables, paradigmas en los que puede enmarcarse, ejecución: compilado/interpretado/híbrido. 
+Tipado de las variables, paradigmas en los que puede enmarcarse, ejecución: compilado/interpretado/híbrido. 
 
 -Tipado: Fuerte y estático (con soporte para tipos dinámicos desde C# 4.0).
 
@@ -41,11 +41,11 @@ Proyectos cancelados como Windows Phone dependían de C#, pero Microsoft redirig
 -Ejecución: Compilado a CIL (Common Intermediate Languaje), ejecutado en la maquina virtual .NET (CLR), lo que lo hace híbrido.
 
 
-#Explicad alguna curiosidad sobre el lenguaje para hacer más interesante vuestro actículo. Para cada lenguaje incluye un apartado sobre IDEs y otro sobre Frameworks.
+Explicad alguna curiosidad sobre el lenguaje para hacer más interesante vuestro actículo. Para cada lenguaje incluye un apartado sobre IDEs y otro sobre Frameworks.
 
 El símbolo # en el nombre, viene de la notación musical, donde un “sharp” sube un semitono. Esto simboliza la evolución de C sobre C++. También es una referencia a los cuatro signos “+” en una cuadricula, recordando su relación con C++.
 
-##IDEs y Frameworks para C#
+IDEs y Frameworks para C#
 
 IDEs recomendados:
 
@@ -60,15 +60,15 @@ Frameworks populares:
 	-Entity Framework: ORM para bases de datos.
 	-Xamarin/.NET MAUI: Aplicaciones móviles con C#.
 
-#Explicad que empresa o institución está detrás de las herramientas.
+Explicad que empresa o institución está detrás de las herramientas.
 
 C# fue desarrollado por Microsoft como parte del ecosistema .NET y sigue siendo mantenido por la empresa junto con la comunidad de código abierto en GitHub.
 
-#Licencias de uso.
+Licencias de uso.
 
 Desde la versión .NET Core, C# es open source bajo la MIT License, permitiendo su uso y modificación sin restricciones comerciales.
 
-#Características destacables.
+Características destacables.
 
 -Lenguaje robusto y seguro, con manejo de excepciones y recolección de basura automática.
 -Rápido y eficiente, con mejoras constantes en rendimiento.
