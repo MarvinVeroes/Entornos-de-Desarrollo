@@ -98,8 +98,8 @@ Para llevar a cabo este estudio, hemos seguido los siguientes pasos:
 
 Este proyecto ha sido desarrollado por:
 
-👤 **[Marvin Veroes]**
-👤 **[Eterronesb]**
-👤 **[Jose Luis]**
+- 👤 **[Marvin Veroes]**
+- 👤 **[Eterronesb]**
+- 👤 **[Jose Luis]**
 
 ---
