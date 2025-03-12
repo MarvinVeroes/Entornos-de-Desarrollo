@@ -1,5 +1,8 @@
 # 🐍 **Entorno de desarrollo Python**
 
+📌 Autor: Marvin Veroes
+📌 Github: https://github.com/MarvinVeroes
+
 ## 📜 **Historia de Python**
 
   Python fue creado a finales de los años 80 por Guido van Rossum en el Centro de Investigación para Matemáticas y Computación (CWI) en los Países Bajos. 
