@@ -1,6 +1,7 @@
 # 🐍 **Entorno de desarrollo Python**
 
-📌 Autor: Marvin Veroes                          📌 Github: https://github.com/MarvinVeroes
+- 📌 Autor: Marvin Veroes
+- 📌 Github: https://github.com/MarvinVeroes
 
 ## 📜 **Historia de Python**
 
